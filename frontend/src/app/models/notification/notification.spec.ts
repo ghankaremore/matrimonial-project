@@ -1,4 +1,4 @@
-import { Reply } from './reply';
+import { Reply } from './notification';
 
 describe('Reply', () => {
   it('should create an instance', () => {
